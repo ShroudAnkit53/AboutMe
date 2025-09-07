@@ -87,6 +87,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ShroudAnkit53/ShroudAnkit53/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ShroudAnkit53/AboutMe/.github/workflows/snake.svg" alt="Snake animation" />
 
 ###
